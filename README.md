@@ -47,7 +47,7 @@ pip install pandas numpy matplotlib seaborn
 ## Clone
 1. Clone the repository:
 ```
-git clone https://github.com/RoshaanH/Analyzing-Credit-Card-Fraud-Dataset
+git clone https://github.com/RoshaanT1/Analyzing-Credit-Card-Fraud-Dataset
 cd Analyzing-Credit-Card-Fraud-Dataset
 ```
 2. Load the dataset and perform EDA using the provided Jupyter Notebook or Python scripts.
